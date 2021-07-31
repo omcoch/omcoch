@@ -1,12 +1,19 @@
- 👋 
+👋 
+
  Hi, I’m **Omri Cochavi**
  
  Computer Science Student at Jerusalem College of Technology (JCT)
  
+ 
+ 
  👀 
+ 
  I’m interested especially in web development, but also in 
  
+ 
+ 
  🌱 
+ 
  I’m currently learning, but I have already started looking for my first wonderful job!
  
  
