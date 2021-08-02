@@ -8,7 +8,7 @@
  
  👀 
  
- I’m interested especially in web development, but also in 
+ I’m interested especially in web development, but also in security, automation and coding overall. 
  
  
  
