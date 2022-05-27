@@ -2,7 +2,7 @@
 
  Hi, I’m **Omri Cochavi**
  
- _Computer Science Student at Jerusalem College of Technology (JCT)_
+ _Computer Science Degree at Jerusalem College of Technology (JCT)_
  
  
  
