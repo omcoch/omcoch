@@ -8,13 +8,13 @@
  
  👀 
  
- I’m interested especially in web development, but also in security, automation and coding overall. 
+ I’m interested especially in web development, but also in security, automation and **coding** overall. 
  
  
  
  🌱 
  
- I’m currently learning, but I have already started looking for my first wonderful job!
+ I’m currently learning, but I have already started looking for my **wonderful job**!
  
  
 
